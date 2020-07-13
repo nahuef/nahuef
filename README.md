@@ -2,12 +2,13 @@
 
 <p align='center'>
   <samp>
-A minimalist back-end engineer who loves to KISS (keep it stupid simple).
-I enjoy most designing and implementing solutions with **AWS** and **Node.js**.
+A minimalist back-end engineer who loves to KISS (keep it stupid simple).<br>I enjoy most designing and implementing solutions with AWS and Node.js.
 </samp>
+</p>
 
 <p align='center'>
 <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/aws.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/lambda.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/nodejs.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/go.png" width="60"/>
+</p>
 <br>
 <br>
 

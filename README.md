@@ -2,7 +2,7 @@
 
 <p align='center'>
   <samp>
-A minimalist back-end engineer who loves to KISS (keep it stupid simple).<br>I enjoy most designing and implementing solutions with **AWS** and **Node.js**.
+A minimalist back-end engineer who loves to KISS (keep it stupid simple).<br>I enjoy most designing and implementing solutions with AWS and Node.js.
 </samp>
 </p>
 

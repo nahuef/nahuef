@@ -14,7 +14,7 @@ I enjoy most designing and implementing solutions with **AWS** and **Node.js**.
 ------------
 
 
-#### In my repositories you'll find
+### In my repositories you'll find
 - **NPM libraries:**
   - [require-indexjs](https://github.com/nahuef/require-indexjs "require-indexjs") To automagically export every module in a directory. *Check it out, it's pretty cool!*
   - [property-waterfall](https://github.com/nahuef/property-waterfall "property-waterfall") To fetch a value that can have different key names in the same (or a set of) object/s. *Ever had to get the IP address from either headers, user-agent, querystring, body..?*

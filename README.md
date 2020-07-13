@@ -1,8 +1,12 @@
 <h1 align='center'>Hi there, I'm Nahuel 👋</h1><br>
 
+<p align='center'>
+  <samp>
 A minimalist back-end engineer who loves to KISS (keep it stupid simple).
-
 I enjoy most designing and implementing solutions with **AWS** and **Node.js**.
+</samp>
+</p>
+<br>
 
 
 
@@ -18,13 +22,5 @@ I enjoy most designing and implementing solutions with **AWS** and **Node.js**.
  - Like Github's[ NOOPS Pathbot challenge](https://noopschallenge.com/challenges/pathbot " noop Pathbot challenge"). At the moment of writting this I believe [my submission](https://github.com/nahuef/pathbot "my submission") is the only one with an [automated maze solver](https://github.com/nahuef/pathbot/blob/master/solver.js "automated maze solver").
 - **Dotfiles.** Not much to see here, told you I'm a minimalist.
 
-*TODO: Add pictures of my cats.*
 
-  
-<a href="https://dev.to/nahuef">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nahuel's DEV Profile" height="30" width="30">
-</a>
-<a href="https://www.linkedin.com/in/nahuelfumero/">
-  <img alt="Nahuel's LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" height="30" width="30">
-</a>
-
+###### *TODO: Add pictures of my cats.*

@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<h1 align='center'>Hi there, I'm Nahuel 👋</h1><br>
 
-You can use the [editor on GitHub](https://github.com/nahuef/nahuef/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<p align='center'>
+  <samp>
+A minimalist back-end engineer who loves to KISS (keep it stupid simple).<br>I enjoy most designing and implementing solutions with AWS and Node.js.
+</samp>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align='center'>
+<img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/aws.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/lambda.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/nodejs.png" width="60"/> <img src="https://raw.githubusercontent.com/nahuef/nahuef/master/img/go.png" width="60"/>
+</p>
+<br>
+<br>
 
-### Markdown
+------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### In my repositories you'll find
+- **[NPM libraries](https://www.npmjs.com/~nahue "NPM libraries"):**
+  - [require-indexjs](https://github.com/nahuef/require-indexjs "require-indexjs") To automagically export every module in a directory. *Check it out, it's pretty cool!*
+  - [property-waterfall](https://github.com/nahuef/property-waterfall "property-waterfall") To fetch a value that can have different key names in the same (or a set of) object/s. *Ever had to get the IP address from either headers, user-agent, querystring, body..?*
+- **Open source contributions.** The opportunistic ones like typos and documentation.
+- **Code challenges.** 
+  - Like Github's[ NOOPS Pathbot challenge](https://noopschallenge.com/challenges/pathbot " noop Pathbot challenge"). At the moment of writting this I believe [my submission](https://github.com/nahuef/pathbot "my submission") is the only one with an [automated maze solver](https://github.com/nahuef/pathbot/blob/master/solver.js "automated maze solver").
+- **Dotfiles.** Not much to see [here](https://github.com/nahuef/dotfiles "here"), told you I'm a minimalist.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nahuef/nahuef/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### *TODO: Add pictures of my cats.*

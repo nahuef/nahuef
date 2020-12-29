@@ -19,9 +19,9 @@ A minimalist back-end engineer who loves to KISS (keep it stupid simple).<br>I e
 - **[NPM libraries](https://www.npmjs.com/~nahue "NPM libraries"):**
   - [require-indexjs](https://github.com/nahuef/require-indexjs "require-indexjs") To automagically export every module in a directory. *Check it out, it's pretty cool!*
   - [property-waterfall](https://github.com/nahuef/property-waterfall "property-waterfall") To fetch a value that can have different key names in the same (or a set of) object/s. *Ever had to get the IP address from either headers, user-agent, querystring, body..?*
-- **Open source contributions.** The opportunistic ones like typos and documentation.
 - **Code challenges.** 
   - Like Github's[ NOOPS Pathbot challenge](https://noopschallenge.com/challenges/pathbot " noop Pathbot challenge"). At the moment of writting this I believe [my submission](https://github.com/nahuef/pathbot "my submission") is the only one with an [automated maze solver](https://github.com/nahuef/pathbot/blob/master/solver.js "automated maze solver").
+- **Open source contributions.** The opportunistic ones like typos and documentation.
 - **Dotfiles.** Not much to see [here](https://github.com/nahuef/dotfiles "here"), told you I'm a minimalist.
 
 
